@@ -3,6 +3,8 @@ This project leverages World Bank’s International Debt Statistics dataset to a
 # Global Debt Analysis using World Bank Data
 
 This project analyzes global external debt using the World Bank International Debt Statistics (IDS) dataset.
+![Uploading newplot (1).png…]()
+
 
 ## Contents
 - `debt_analysis_notebook.ipynb` : Jupyter Notebook with full pipeline (fetch data, EDA, clustering, regression, ARIMA forecasting, visualizations)
