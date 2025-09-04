@@ -8,7 +8,7 @@ This project analyzes global external debt using the World Bank International De
 
 
 
-## Content![Uploading newplot.png…]()
+## Content
 s
 - `debt_analysis_notebook.ipynb` : Jupyter Notebook with full pipeline (fetch data, EDA, clustering, regression, ARIMA forecasting, visualizations)
 - `streamlit_debt_dashboard.py` : Streamlit dashboard to visualize debt data interactively
