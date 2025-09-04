@@ -4,9 +4,11 @@ This project leverages World Bank’s International Debt Statistics dataset to a
 
 This project analyzes global external debt using the World Bank International Debt Statistics (IDS) dataset.
 ![Uploading newplot (1).png…]()
+<img width="1797" height="525" alt="newplot" src="https://github.com/user-attachments/assets/e7e98e46-127b-4fad-8976-79571023416a" />
 
 
-## Contents
+## Content![Uploading newplot.png…]()
+s
 - `debt_analysis_notebook.ipynb` : Jupyter Notebook with full pipeline (fetch data, EDA, clustering, regression, ARIMA forecasting, visualizations)
 - `streamlit_debt_dashboard.py` : Streamlit dashboard to visualize debt data interactively
 - `processed_debt.csv` : Generated CSV after running the notebook (contains Debt, GDP, Debt-to-GDP ratios)
