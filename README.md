@@ -3,9 +3,10 @@ This project leverages World Bank’s International Debt Statistics dataset to a
 # Global Debt Analysis using World Bank Data
 
 This project analyzes global external debt using the World Bank International Debt Statistics (IDS) dataset.
-![Uploading newplot (1).png…]()
+
 <img width="1797" height="525" alt="newplot" src="https://github.com/user-attachments/assets/e7e98e46-127b-4fad-8976-79571023416a" />
 
+<img width="1781" height="531" alt="Screenshot 2025-09-05 004039" src="https://github.com/user-attachments/assets/cbe061cb-36a9-41f5-bdca-5fd76b77c65f" />
 
 ## Content![Uploading newplot.png…]()
 s
